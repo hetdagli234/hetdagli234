@@ -7,7 +7,7 @@ Bottom up capital formation, economic reforms, governance structures and permiss
 - Languages: JavaScript, TypeScript, Rust
 - Frameworks: Anchor(Solana)
 
-## Writing
+## ✍️ Recent Writings
 - [Futarchy](https://substack.com/home/post/p-142028512)
 - [Solana Masterclass](https://medium.com/@het2341999)
 
