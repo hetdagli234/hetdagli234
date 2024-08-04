@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Het Dagli
 
 ## 🚀 Current Thing
-Bottom up capital formation, economic reforms, governance structures and permissionless innovation.
+Bottom up capital formation, Cryptocurrencies, Governance structures and Permissionless innovation.
 
 ## 💻 Tech Stack
 - Languages: JavaScript, TypeScript, Rust
