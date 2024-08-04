@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Het Dagli
 
-## 🚀 About Me
-I'm a passionate developer with a love for creating innovative solutions. My journey in the world of coding has been an exciting adventure, and I'm always eager to learn and grow.
+## 🚀 Current Thing
+Learning about bottom up capital formation, emergent cultures, and permissionless innovation.
 
 ## 💻 Tech Stack
 - Languages: JavaScript, TypeScript, Rust
@@ -16,11 +16,6 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
 ## 🌱 I'm currently learning
 - Solana Development
 - Rust
-
-## 👯 I'm looking to collaborate on
-- Open source projects
-- Innovative web applications
-- [Any specific areas of interest]
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/hetdagli/)
