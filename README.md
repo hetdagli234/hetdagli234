@@ -4,12 +4,14 @@
 Bottom-up capital formation, Cryptocurrencies, Governance structures, and Permissionless innovation.
 
 ## 💻 Tech Stack
-- Languages: JavaScript, TypeScript, Rust
-- Frameworks: Anchor(Solana)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 ## ✍️ Recent Writings
-- [Futarchy](https://substack.com/home/post/p-142028512)
-- [Solana Masterclass](https://medium.com/@het2341999)
+[![Futarchy](https://img.shields.io/badge/Futarchy-FF4500?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/home/post/p-142028512)
+[![Solana Masterclass](https://img.shields.io/badge/Solana_Masterclass-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://medium.com/@het2341999)
 
 ## 📫 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daglihet)
